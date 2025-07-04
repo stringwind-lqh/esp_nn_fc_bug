@@ -9,7 +9,6 @@ void run_inference_test() {
 
     Classifier classifier;
 
-
     if (!classifier.Init()) {
         std::cerr << "Failed to initialize the classifier." << std::endl;
         return;

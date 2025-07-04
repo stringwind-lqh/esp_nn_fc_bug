@@ -11,7 +11,7 @@ class Model;
 template <unsigned int tOpCount>
 class MicroMutableOpResolver;
 class MicroInterpreter;
-}  // namespace tflite
+} 
 
 struct TfLiteTensor;
 
